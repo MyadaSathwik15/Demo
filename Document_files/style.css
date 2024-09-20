@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&family=Noto+Sans+JP:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&family=Noto+Sans+JP:wght@100..900&family=Space+Grotesk:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&family=Kalam:wght@300;400;700&family=Noto+Sans+JP:wght@100..900&family=Space+Grotesk:wght@300..700&display=swap');
+body{
+    background-image: url(https://images6.alphacoders.com/864/864743.jpg);
+    background-size: cover;
+}
+.bg{
+    color: rgb(250, 169, 103);
+    border-style: solid;
+    border-color: rgb(241, 108, 164);
+    padding-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 270px;
+    border-radius: 10px;
+    font-family: Space Grotesk;
+}
+.bg1{
+    color: rgb(238, 86, 86);
+    border-style: solid;
+    border-color: rgb(131, 86, 238);
+    border-radius: 10px;
+    padding-left: 10px;
+    font-family: Kalam;
+}
+#one{
+    text-shadow: 5px 5px 5px grey;
+    font-family: Baskervville SC;
+}
+#two{
+    text-decoration: underline;
+}
+#three{
+    text-decoration: wavy;
+}
